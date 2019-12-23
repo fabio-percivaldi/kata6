@@ -1,0 +1,26 @@
+{
+  "name": "katanomouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap -b tests/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@mia-platform/eslint-config-mia": "^2.0.0",
+    "ajv": "^6.10.2",
+    "eslint": "^6.0.0",
+    "nock": "^11.7.0",
+    "pre-commit": "^1.2.2",
+    "tap": "^14.2.2"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "private": true,
+  "eslintConfig": {
+    "extends": "@mia-platform/eslint-config-mia"
+  }
+}
