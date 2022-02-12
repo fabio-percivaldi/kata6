@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "@mia-platform/eslint-config-mia": "^2.0.0",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "eslint": "^6.0.0",
     "nock": "^11.7.0",
     "pre-commit": "^1.2.2",
